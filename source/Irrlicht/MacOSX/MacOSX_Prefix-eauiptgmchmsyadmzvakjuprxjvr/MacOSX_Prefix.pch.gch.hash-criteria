@@ -1,0 +1,22 @@
+Contents of /opt/irrlicht/source/Irrlicht/MacOSX/MacOSX_Prefix.pch
+4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.1.00)
+i686-apple-darwin11
+-x
+c
+-arch
+i386
+-fmessage-length=0
+-pipe
+-fpascal-strings
+-O0
+-isysroot
+/Developer/SDKs/MacOSX10.6.sdk
+-fasm-blocks
+-mmacosx-version-min=10.6
+-gdwarf-2
+-I/opt/irrlicht/source/Irrlicht/MacOSX/build/Debug/include
+-I../../../include
+-F/opt/irrlicht/source/Irrlicht/MacOSX/build/Debug
+-DMACOSX
+-D_DEBUG
+SDK_PRODUCT_BUILD_VERSION=10K549
